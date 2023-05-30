@@ -1,0 +1,13 @@
+{
+  "PYTHON3_BIN": "/home/gmor/PyVenvs/mlflow2/bin/python3",
+  "MLFlow": {
+    "ModelTrainingPeriodicity": "P1M",
+    "ForceModelTraining": false,
+    "MLFLOW_BIN": "/home/gmor/PyVenvs/mlflow2/bin/mlflow",
+    "TrackingUri": "http://127.0.0.1:5000",
+    "StoreModels": true,
+    "IncludeArtifacts": true
+  },
+  "InputDataDirectory": "example_data",
+  "OutputDataDirectory": "output"
+}
